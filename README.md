@@ -177,12 +177,10 @@ LangChain and Auto-GPT are powerful tools that can be used to automate tasks wit
 ## Step 9: Tuning Large Language Models (Optional)
 Tuning large language models is a process of adjusting the parameters of a pre-trained language model to improve its performance on a specific task. This can be done by providing the model with additional data that is relevant to the task, or by changing the way that the model is trained.
 
-Why tune large language models?
-
+#### Why tune large language models?
 There are a few reasons why you might want to tune a large language model. First, you may want to improve the performance of the model on a specific task. Second, you may want to make the model more specialized for a particular domain. Third, you may want to reduce the amount of bias in the model.
 
-How to tune large language models
-
+#### How to tune large language models
 There are a number of different ways to tune large language models. One common approach is to use a technique called "transfer learning." Transfer learning involves taking a pre-trained language model and fine-tuning it on a dataset that is specific to the task that you want the model to perform.
 
 Another approach to tuning large language models is to use a technique called "prompt engineering." Prompt engineering involves providing the model with a prompt that tells the model what task you want it to perform. The prompt can be a simple sentence, or it can be a more complex instruction.
