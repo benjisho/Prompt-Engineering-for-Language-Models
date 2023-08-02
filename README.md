@@ -232,3 +232,7 @@ In this step, you'll work on improving your communication and collaboration skil
 For this step, continuously practice solving complex problems and optimizing prompt engineering techniques. Pay attention to details to ensure your models perform well and generate high-quality responses.
 
 Remember, hands-on experience through projects, code examples, and real-world applications will solidify your knowledge and make you a top candidate for the role of Prompt Engineering for Language Models.
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE).
